@@ -1,0 +1,33 @@
+{
+  "name": "camel-cms",
+  "version": "1.0.0",
+  "description": "A Powerful CMS With NodeJS And MongoDB",
+  "main": "Application/Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrKaveh/Camel.git"
+  },
+  "keywords": [
+    "CamelCMS",
+    "RedCamel",
+    "CMS",
+    "NodeJSCMS",
+    "MongoDBCMS",
+    "FreeCMS",
+    "OpenSourceCMS",
+    "Camel"
+  ],
+  "author": "RedCamel Team (MohammadHosseinPourshabanan)",
+  "license": "SEE LICENSE IN ./CamelLicense.lic",
+  "bugs": {
+    "url": "https://github.com/MrKaveh/Camel/issues"
+  },
+  "homepage": "https://github.com/MrKaveh/Camel#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.17.1"
+  }
+}
